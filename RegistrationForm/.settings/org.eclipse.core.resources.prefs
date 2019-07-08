@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/about.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/bookInfo.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/bookModifications.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/faq.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/homeBeforLogging.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/orders.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/productSingle.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/products.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/register.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/shop.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/userSettings.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/viewCard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/visa.jsp=UTF-8
